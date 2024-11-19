@@ -1,0 +1,6 @@
+All versions of Sequoia from 15.1 to 15.2 Beta on a mini M2 have stopped servinq public domains after a few minute to up to about 3 hours. I know that Sequoia claims that PHP is not supported but it seems to work during while it is on.
+I have tried many things. 
+    Currently I am simulating a power outage about every 3 hours to restart computer.
+    Reduced the number of domains being served from 10 to 5 by eliminating the low volume amd some with many PHP files.
+    Made a Sonoma Bootable Installer but would not install Sonoma on an M2.
+    Is this a problem for everyone running Brew installed httpd on Sequoia?
